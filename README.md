@@ -36,6 +36,8 @@
 ---
 
 <div align="center">
-![touhou-touhou-project](https://github.com/user-attachments/assets/031af23a-a48d-4060-ac6c-9d789227f4f5)
+
+<img src= "![touhou-touhou-project](https://github.com/user-attachments/assets/9790549c-3cc5-4d4b-a5dc-0e5f272715a0"/>
+/>
 
 </div>
